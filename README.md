@@ -1,5 +1,4 @@
-# Jaden Johnson Branch
+# Pacman Horror Game
 
-## Working on UI scripts
+## CPSC 245 Unity Programming Final Project
 
-Majority of uploads are in 'Scripts' folder
